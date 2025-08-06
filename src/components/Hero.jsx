@@ -1,3 +1,4 @@
+
 import React, { useEffect } from 'react'
 import { MapPin } from 'lucide-react';
 import { Calendar } from 'lucide-react';
@@ -56,9 +57,11 @@ const Hero = () => {
           </label>
           <select className="w-full p-2 border border-gray-300 rounded cursor-pointer">
             <option>Select city</option>
-            <option>New York</option>
-            <option>Phoenix</option>
-            <option>Austin</option>
+            <option>MekneS</option>
+            <option>Rabat</option>
+            <option>Kenitra</option>
+            <option>Tangier</option>
+            <option>Casablanca</option>
           </select>
         </div>
 
